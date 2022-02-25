@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488707204 source:e:\my code\data structures and algorithm analysis\bittree\main.cpp
+	<stdio.h>
+	"LinkBittree.h"
+
+1499755339 e:\my code\data structures and algorithm analysis\bittree\linkbittree.h
+	<malloc.h>
+

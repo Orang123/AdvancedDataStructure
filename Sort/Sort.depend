@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1492873524 source:e:\my code\data structures and algorithm analysis\sort\main.cpp
+	<stdio.h>
+	<malloc.h>
+	"sort_gather.h"
+	"Improve_Q_sort.h"
+
+1495805678 e:\my code\data structures and algorithm analysis\sort\sort_gather.h
+
+1496019568 e:\my code\data structures and algorithm analysis\sort\improve_q_sort.h
+
+1492873524 source:e:\mycode\data structures and algorithm analysis\sort\main.cpp
+	<stdio.h>
+	<malloc.h>
+	"sort_gather.h"
+	"Improve_Q_sort.h"
+
+1514990519 e:\mycode\data structures and algorithm analysis\sort\sort_gather.h
+	<bits/stdc++.h>
+
+1496019568 e:\mycode\data structures and algorithm analysis\sort\improve_q_sort.h
+

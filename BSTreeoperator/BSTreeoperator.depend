@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499786015 source:e:\my code\data structures and algorithm analysis\bstreeoperator\main.cpp
+	<stdio.h>
+	"BSToperator.h"
+
+1499785967 e:\my code\data structures and algorithm analysis\bstreeoperator\bstoperator.h
+	<malloc.h>
+
+1489918043 source:e:\my code\data structures and algorithm analysis codeblocks\bstreeoperator\main.cpp
+	<stdio.h>
+	"BSToperator.h"
+
+1489918127 e:\my code\data structures and algorithm analysis codeblocks\bstreeoperator\bstoperator.h
+	<malloc.h>
+

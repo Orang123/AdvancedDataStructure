@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498485017 source:e:\my code\data structures and algorithm analysis\avltree\main.cpp
+	<stdio.h>
+	"AVL_operate.h"
+
+1490515336 e:\my code\data structures and algorithm analysis\avltree\avl_operate.h
+	<malloc.h>
+

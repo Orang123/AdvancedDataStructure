@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488713072 source:e:\my code\data structures and algorithm analysis\childbrothertree\main.cpp
+	<stdio.h>
+	<malloc.h>
+	"Operation.h"
+
+1488713791 e:\my code\data structures and algorithm analysis\childbrothertree\operation.h
+

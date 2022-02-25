@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554902979 source:d:\mycode\data structures and algorithm analysis\bin_heap\main.cpp
+	<cstdio>
+	"lib.h"
+
+1554903529 d:\mycode\data structures and algorithm analysis\bin_heap\lib.h
+

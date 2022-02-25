@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1499326543 source:e:\my code\data structures and algorithm analysis\skew_heap\main.cpp
+	<stdio.h>
+	"Operation.h"
+
+1499326532 e:\my code\data structures and algorithm analysis\skew_heap\operation.h
+	<malloc.h>
+
